@@ -5,7 +5,13 @@
 
 
 
+https://github.com/nakul3000/Revenue-prediction-from-customers-data-Regression-and-Regularization/assets/130779672/fd247072-cbf9-4bbf-9f2e-0a4dd1db0722
+
+
+
 Motivation behind the problem
+
+
 
 
 
