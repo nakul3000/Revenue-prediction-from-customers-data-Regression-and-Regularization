@@ -1,12 +1,5 @@
 # Revenue-prediction-from-customers'-data-Regression-and-Regularization
 
-![robot_3558860](https://github.com/nakul3000/Revenue-prediction-from-customers-data-Regression-and-Regularization/assets/130779672/a7be058d-e251-41b2-80ce-31d864c3dfc7)
-
-
-
-
-https://github.com/nakul3000/Revenue-prediction-from-customers-data-Regression-and-Regularization/assets/130779672/fd247072-cbf9-4bbf-9f2e-0a4dd1db0722
-
 
 
 Motivation behind the problem
